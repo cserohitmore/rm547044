@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rm547044
+- 👋 Hi, I’m Rohit More 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Programming Languages
 - 📝 I regularly write articles on https://cserohitmore.blogspot.com/
